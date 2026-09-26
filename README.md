@@ -230,7 +230,9 @@ never store author names or emails from git history.
 
 ## Team
 
-`<names and roles>`
+- [Román Molina](https://www.linkedin.com/in/romanmolina/)
+- [Joaquín Yapura](https://www.linkedin.com/in/joaqu%C3%ADn-yapura-89a098412)
+- [Benjamín Ligonie Wertmiller](https://www.linkedin.com/in/benjamin-ligonie-wertmiller-805333257)
 
 ## License
 

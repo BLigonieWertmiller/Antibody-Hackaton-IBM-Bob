@@ -30,3 +30,4 @@ for example `antibody_task07_vaccine_round2_summary.png`.
 | [`antibody_task40_demo_repo_search_summary.png`](antibody_task40_demo_repo_search_summary.png) | Searched for open-source demo repo candidates and fix commits |
 | [`antibody_task41_twin_search_marshmallow_summary.png`](antibody_task41_twin_search_marshmallow_summary.png) | Searched marshmallow for twins of fix 72ac4a04 (booleans accepted as numbers) |
 | [`antibody_task42_twin_search_apscheduler_summary.png`](antibody_task42_twin_search_apscheduler_summary.png) | Searched apscheduler 3.x for twins of fix 1693db4 (DST-unsafe datetime arithmetic) |
+| [`antibody_task43_antibody_run_apscheduler_1693db4_summary.png`](antibody_task43_antibody_run_apscheduler_1693db4_summary.png) | Antibody run (`/antibody 1693db4`) on apscheduler: diagnosis, 3 twins in `src/` proven red |

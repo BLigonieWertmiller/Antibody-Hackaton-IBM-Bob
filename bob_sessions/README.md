@@ -10,9 +10,6 @@ consumption summary as PNG.
 **File name:** `<team>_task<NN>_<short-description>.png`,
 for example `antibody_task07_vaccine_round2_summary.png`.
 
-Task numbers are split by member so file names never collide: Román 01–19,
-Joaquín 20–39, Benjamín 40–59.
-
 ## Román Molina
 
 | File | What the task did |

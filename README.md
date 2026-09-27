@@ -191,16 +191,16 @@ No server, no database, no dashboard to host. Everything is reviewed as code.
 
 ---
 
-## Results
+## Demo repositories
 
-Measured by the team on the demo repository (see [docs/team/DEMO.md](docs/team/DEMO.md)).
-
-| Metric | By hand | Antibody |
-|---|---|---|
-| Time to search for twins | `__ min` | `__ min` |
-| Twins found | `__` | `__` (all proven with a failing test) |
-| Immunity before / after | n/a | `__%` → `__%` |
-| Backtest: later bug prevented | n/a | `yes/no, commit ____` |
+- **Demo video:** the run shown in the video uses
+  [demo-target](https://github.com/JoaquinYap/demo-target), a small **practice
+  repository written by the team**. Its twins (naive vs. timezone-aware
+  datetimes) were **seeded by hand** to rehearse and show the full pipeline.
+- **Real-world check:** on [APScheduler](https://github.com/agronholm/apscheduler)
+  (branch `3.x`, fix `1693db4`), Antibody found 3 real twins of the same
+  DST-unsafe datetime arithmetic in `src/`, each proven with a failing test that
+  passes after the fix. They are still present upstream.
 
 ## Repository layout
 

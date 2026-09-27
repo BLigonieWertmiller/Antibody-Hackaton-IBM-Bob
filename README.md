@@ -9,7 +9,8 @@ leaves a permanent defense that Bob **attacks itself** until it catches every
 realistic variant of the bug.
 
 > Built for the IBM Bob 2.0 Hackathon (lablab.ai, September 2026).
-> Demo video: `<link>` · Bob session evidence: [`bob_sessions/`](bob_sessions/)
+> [Demo video](https://youtu.be/R2XJzpAfE-c) · [Slides](https://canva.link/ivhx7jgebcrm71z) ·
+> [Landing page](https://landing-antibody.vercel.app/) · Bob session evidence: [`bob_sessions/`](bob_sessions/)
 
 ---
 

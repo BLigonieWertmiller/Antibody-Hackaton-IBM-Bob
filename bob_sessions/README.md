@@ -14,6 +14,8 @@ for example `antibody_task07_vaccine_round2_summary.png`.
 
 | File | What the task did |
 |---|---|
+| [`antibody_task01_antibody_run_51fac9e_summary.png`](antibody_task01_antibody_run_51fac9e_summary.png) | Antibody run (`/antibody 51fac9e`) on the demo-target repository |
+| [`antibody_task02_antibody_run_c056747_summary.png`](antibody_task02_antibody_run_c056747_summary.png) | Antibody run (`/antibody c056747`) on the demo-target repository |
 
 ## Joaquín Yapura
 
